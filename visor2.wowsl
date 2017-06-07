@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>15</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor2</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>squares</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>550</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/aqua/</ImageTemplate>
+            <ImageTemplateName>Aqua</ImageTemplateName>
+            <ImageWidth>750</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#16B6FF</TemplateColor>
+            <TemplateFont>Tahoma</TemplateFont>
+            <TemplateName>aqua</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/11_DAM/PARCIAL 3/PROYECTO/app10/imagenes/img10.jpg</url>
+                <title>img10</title>
+                <filesize>529668</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 3/PROYECTO/app10/imagenes/img23.jpg</url>
+                <title>img23</title>
+                <filesize>185469</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 3/PROYECTO/app10/imagenes/img25.jpg</url>
+                <title>img25</title>
+                <filesize>70322</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 3/PROYECTO/app10/imagenes/img27.jpg</url>
+                <title>img27</title>
+                <filesize>98831</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 3/PROYECTO/app10/imagenes/img30.jpg</url>
+                <title>img30</title>
+                <filesize>213259</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 3/PROYECTO/app10/imagenes/img32.jpg</url>
+                <title>img32</title>
+                <filesize>520102</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 3/PROYECTO/app10/imagenes/img33.jpg</url>
+                <title>img33</title>
+                <filesize>96605</filesize>
+            </Image>
+            <Image>
+                <url>J:/11_DAM/PARCIAL 3/PROYECTO/app10/imagenes/img35.jpg</url>
+                <title>img35</title>
+                <filesize>181476</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
